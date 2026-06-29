@@ -1,0 +1,667 @@
+canonical_identifier: bkk:krp/KR3em022/v1
+canonical_location: https://kanripo.org/bkk/KR3em022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 尤氏喉科秘書
+  identifiers:
+    krp: KR3em022
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em022.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3em022_000.yaml, hash: 'sha256:11371945acdd20af5c1d1dbafc52166cccd2934b85f67183eadb37953fe7fb7b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em022_000.markers.yaml, hash: 'sha256:cbc0358149b49ceef9aaf3ea8cf27eeea262565fd514c90a642a5db3cfeed3ad'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 371
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 800
+  label: 喉症總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4.h1s1
+    span:
+    - body
+    - 800
+    - 1393
+  label: 咽喉門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4d4
+    span:
+    - body
+    - 952
+    - 1007
+  label: 喉菌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4d5
+    span:
+    - body
+    - 1007
+    - 1062
+  label: 喉癬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4d6
+    span:
+    - body
+    - 1062
+    - 1106
+  label: 喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4d7
+    span:
+    - body
+    - 1106
+    - 1168
+  label: 舌䪞舌喉癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4d8
+    span:
+    - body
+    - 1168
+    - 1185
+  label: 喉關
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4d9
+    span:
+    - body
+    - 1185
+    - 1350
+  label: 纏喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d4d10
+    span:
+    - body
+    - 1350
+    - 1393
+  label: 喉刺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5.h1s1
+    span:
+    - body
+    - 1393
+    - 2406
+  label: 口牙舌頸面腮門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d6
+    span:
+    - body
+    - 1470
+    - 1519
+  label: 牙癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d7
+    span:
+    - body
+    - 1519
+    - 1555
+  label: 牙咬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d8
+    span:
+    - body
+    - 1555
+    - 1572
+  label: 牙舌䪞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d9
+    span:
+    - body
+    - 1572
+    - 1610
+  label: 牙宣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d10
+    span:
+    - body
+    - 1610
+    - 1638
+  label: 牙菌並荏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d11
+    span:
+    - body
+    - 1638
+    - 1710
+  label: 穿牙疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d12
+    span:
+    - body
+    - 1710
+    - 1820
+  label: 走馬牙疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d13
+    span:
+    - body
+    - 1820
+    - 1854
+  label: 崩砂疳口風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d14
+    span:
+    - body
+    - 1854
+    - 1887
+  label: 舌癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d15
+    span:
+    - body
+    - 1887
+    - 1959
+  label: 木舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d16
+    span:
+    - body
+    - 1959
+    - 1990
+  label: 舌菌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d17
+    span:
+    - body
+    - 1990
+    - 2015
+  label: 懸癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d18
+    span:
+    - body
+    - 2015
+    - 2029
+  label: 糜疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d19
+    span:
+    - body
+    - 2029
+    - 2053
+  label: 鵝口
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d20
+    span:
+    - body
+    - 2053
+    - 2173
+  label: 馬牙
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d21
+    span:
+    - body
+    - 2173
+    - 2202
+  label: 頸癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d22
+    span:
+    - body
+    - 2202
+    - 2222
+  label: 托腮癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d23
+    span:
+    - body
+    - 2222
+    - 2249
+  label: 連珠口疳風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d5d24
+    span:
+    - body
+    - 2249
+    - 2406
+  label: 繭唇風症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d6.h1s1
+    span:
+    - body
+    - 2406
+    - 3621
+  label: 喉症治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7.h1s1
+    span:
+    - body
+    - 3621
+    - 5570
+  label: 製藥法則
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d4
+    span:
+    - body
+    - 3979
+    - 4036
+  label: 取百草霜法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d5
+    span:
+    - body
+    - 4036
+    - 4095
+  label: 制黃柏法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d6
+    span:
+    - body
+    - 4095
+    - 4163
+  label: 制人中白法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d7
+    span:
+    - body
+    - 4163
+    - 4188
+  label: 制牙皂法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d8
+    span:
+    - body
+    - 4188
+    - 4241
+  label: 制殭蠶法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d9
+    span:
+    - body
+    - 4241
+    - 4414
+  label: 制燈草灰法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d10
+    span:
+    - body
+    - 4414
+    - 4523
+  label: 制槍硝法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d11
+    span:
+    - body
+    - 4523
+    - 4692
+  label: 碧丹配合法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d12
+    span:
+    - body
+    - 4692
+    - 5142
+  label: 金丹配合法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d13
+    span:
+    - body
+    - 5142
+    - 5213
+  label: 喉症煎藥主方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d14
+    span:
+    - body
+    - 5213
+    - 5289
+  label: 舌症煎藥主方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d15
+    span:
+    - body
+    - 5289
+    - 5412
+  label: 牙症煎藥主方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d16
+    span:
+    - body
+    - 5412
+    - 5535
+  label: 制三黃散法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d7d17
+    span:
+    - body
+    - 5535
+    - 5570
+  label: 制梅礬法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d8.h1s1
+    span:
+    - body
+    - 5570
+    - 6799
+  label: 用藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9.h1s1
+    span:
+    - body
+    - 6799
+    - 7844
+  label: 喉症驗方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d2
+    span:
+    - body
+    - 6803
+    - 6855
+  label: 綠袍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d3
+    span:
+    - body
+    - 6855
+    - 6892
+  label: 蘆薈散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d4
+    span:
+    - body
+    - 6892
+    - 6953
+  label: 冰黃散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d5
+    span:
+    - body
+    - 6953
+    - 7013
+  label: 十寶丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d6
+    span:
+    - body
+    - 7013
+    - 7072
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d7
+    span:
+    - body
+    - 7072
+    - 7183
+  label: 上清丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d8
+    span:
+    - body
+    - 7183
+    - 7216
+  label: 清咽消腫飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d9
+    span:
+    - body
+    - 7216
+    - 7251
+  label: 玉鎖匙
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d10
+    span:
+    - body
+    - 7251
+    - 7297
+  label: 蘇子降氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d11
+    span:
+    - body
+    - 7297
+    - 7450
+  label: 加減良方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d12
+    span:
+    - body
+    - 7450
+    - 7474
+  label: 驅腐丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d13
+    span:
+    - body
+    - 7474
+    - 7521
+  label: 吹喉散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d14
+    span:
+    - body
+    - 7521
+    - 7573
+  label: 吹口方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d15
+    span:
+    - body
+    - 7573
+    - 7668
+  label: 消腫代刀散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d16
+    span:
+    - body
+    - 7668
+    - 7747
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em022_jc_000-d9d17
+    span:
+    - body
+    - 7747
+    - 7844
+  label: 口疳藥方
+  type: section
+  level: 2
+hash: sha256:9da30f0c1027068ac2ba573576bedd44977899995332ab33427c86fd592e3f49
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
