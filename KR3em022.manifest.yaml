@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em022_000.yaml, hash: 'sha256:11371945acdd20af5c1d1dbafc52166cccd2934b85f67183eadb37953fe7fb7b'}
+  - {seq: 0, filename: KR3em022_000.yaml, hash: 'sha256:7133f537135c6f633376ad7ee8055370501973a7f228fa425478db7c4ea192d6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em022_000.markers.yaml, hash: 'sha256:cbc0358149b49ceef9aaf3ea8cf27eeea262565fd514c90a642a5db3cfeed3ad'}
+  - {seq: 0, role: markers, filename: assets/KR3em022_000.markers.yaml, hash: 'sha256:00edd4970000c08e63d419f39977ed17c2a53865ea33217bc6b8b981bf2e0313'}
 table_of_contents:
 - ref:
     seq: 0
@@ -661,7 +661,4 @@ table_of_contents:
   label: 口疳藥方
   type: section
   level: 2
-hash: sha256:9da30f0c1027068ac2ba573576bedd44977899995332ab33427c86fd592e3f49
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c5ad99904b1569b5ef5622b2255b59e46ec75caed79739fae30dcb4baa0fd362
