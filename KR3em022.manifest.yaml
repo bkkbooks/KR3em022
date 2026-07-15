@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em022/v1
 canonical_location: https://kanripo.org/bkk/KR3em022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 尤氏喉科秘書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em022_000.yaml, hash: 'sha256:7133f537135c6f633376ad7ee8055370501973a7f228fa425478db7c4ea192d6'}
+  - {seq: 0, filename: KR3em022_000.yaml, hash: 'sha256:cda6189c352853ee32f2eede4b0755b95e2ffcb3ccdc62cd17fb933334bc8476'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em022_000.markers.yaml, hash: 'sha256:00edd4970000c08e63d419f39977ed17c2a53865ea33217bc6b8b981bf2e0313'}
+  - {seq: 0, role: markers, filename: assets/KR3em022_000.markers.yaml, hash: 'sha256:3e043874a1e8ede7a01508565620bb41157f55ba3e34d517960c01fd41bdcc2f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -661,4 +661,7 @@ table_of_contents:
   label: 口疳藥方
   type: section
   level: 2
-hash: sha256:c5ad99904b1569b5ef5622b2255b59e46ec75caed79739fae30dcb4baa0fd362
+hash: sha256:e90d381124e02c6860fef091e83ab241e2f6b2a4b9e7c2ab9793d6c58f01a3d7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
