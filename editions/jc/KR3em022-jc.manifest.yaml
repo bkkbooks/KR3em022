@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em022_000-jc.yaml, hash: 'sha256:7133f537135c6f633376ad7ee8055370501973a7f228fa425478db7c4ea192d6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em022_000-jc.markers.yaml, hash: 'sha256:ace2f7e4d2f179db6a19b8a9c1c5ce5ddfc5bb5359b7f3a184d8c4495f477065'}
+  - {seq: 0, role: markers, filename: assets/KR3em022_000-jc.markers.yaml, hash: 'sha256:ac9cb6e1630f19dc795d4ea215d7f773238a653003c142d342758a211a1cbc33'}
 table_of_contents:
 - ref:
     seq: 0
@@ -661,4 +661,4 @@ table_of_contents:
   label: 口疳藥方
   type: section
   level: 2
-hash: sha256:404b10e258ad55fb22b085b32aa93a67bab68b2171f33cef1900edd900fca0b3
+hash: sha256:d9572357a3cf49615e9adb2fa06ad5e01d820380ffaee360ec66abc91e1b5ef1
